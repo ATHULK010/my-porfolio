@@ -19,5 +19,5 @@ Welcome to my personal portfolio website! This site showcases my journey, achiev
 - Includes email and social media links
 - Designed to be clean and easy to navigate
 
-## 📁 Project Structure
+
 
